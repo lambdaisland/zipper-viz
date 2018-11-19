@@ -1,7 +1,7 @@
 # lambdaisland/zipper-viz
 
 <!-- badges -->
-[![CircleCI](https://circleci.com/gh/lambdaisland/zipper-viz.svg?style=svg)](https://circleci.com/gh/lambdaisland/zipper-viz) [![cljdoc badge](https://cljdoc.org/badge/lambdaisland/zipper-viz)](https://cljdoc.org/d/lambdaisland/zipper-viz) [![Clojars Project](https://img.shields.io/clojars/v/lambdaisland/zipper-viz.svg)](https://clojars.org/lambdaisland/zipper-viz)
+[![CircleCI](https://circleci.com/gh/lambdaisland/zipper-viz.svg?style=svg)](https://circleci.com/gh/lambdaisland/zipper-viz) [![cljdoc badge](https://cljdoc.org/badge/lambdaisland/zipper-viz)](https://cljdoc.org/d/lambdaisland/zipper-viz) [![Clojars Project](https://img.shields.io/clojars/v/lambdaisland/zipper-viz.svg)](https://clojars.org/lambdaisland/zipper-viz) [![codecov](https://codecov.io/gh/lambdaisland/zipper-viz/branch/master/graph/badge.svg)](https://codecov.io/gh/lambdaisland/zipper-viz)
 <!-- /badges -->
 
 Visualize Clojure zippers.
